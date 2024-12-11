@@ -1,0 +1,7 @@
+with open('./texto.txt', 'w+') as file: # 'w+' significa que abre el archivo para lectura y escritura, y lo vacía si ya existe
+   for line in file:
+   print(line) # Esta línea no se ejecutará ya que el archivo estará vacío en este momento.
+    # Escribe nuevas líneas de texto en el archivo.
+file.write('nuevas cosas en este archivo\n') # Escribe la primera línea
+file.write('otra linea\n')
+file.write('otra line\n) 

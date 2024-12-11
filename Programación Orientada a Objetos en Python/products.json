@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Wireless Charger",
+    "price": 75.0,
+    "quantity": 100,
+    "brand": "ChargerMaster",
+    "category": "Accessories",
+    "entry_date": "2024-07-01"
+  },
+  {
+    "name": "Laptop Pro",
+    "price": 1200.0,
+    "quantity": 50,
+    "brand": "TechBrand",
+    "category": "Electronics",
+    "entry_date": "2024-06-15"
+  },
+  {
+    "name": "Bluetooth Speaker",
+    "price": 45.99,
+    "quantity": 200,
+    "brand": "SoundWave",
+    "category": "Audio",
+    "entry_date": "2024-06-01"
+  },
+  {
+    "name": "Smartphone 12",
+    "price": 950.0,
+    "quantity": 75,
+    "brand": "PhoneTech",
+    "category": "Electronics",
+    "entry_date": "2024-07-10"
+  },
+  {
+    "name": "4K Monitor",
+    "price": 350.0,
+    "quantity": 30,
+    "brand": "ScreenView",
+    "category": "Accessories",
+    "entry_date": "2024-05-20"
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 60.0,
+    "quantity": 120,
+    "brand": "GamerGear",
+    "category": "Peripherals",
+    "entry_date": "2024-06-25"
+  }
+]

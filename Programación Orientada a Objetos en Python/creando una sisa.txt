@@ -1,0 +1,17 @@
+import marplotlib.pyplot as pyplot
+# Función para generar un gráfico de barras
+def generante_bar_chart(labels, values): # Crear la figura y los ejes
+ax.bar(labels,values)  # Crear el gráfico de barras
+
+plt.show()
+# Función para generar un gráfico de pastel
+def generate_pie_chart(labels, values):
+fig, ax = plt.subplots()
+ax.pie(values, labels=labels)# Hacer que el gráfico sea circular
+ax.axis('')
+
+
+if __name__== '__main__':
+labels = ['a','b','c']
+values = [10,40,800]
+generante_bar_chart(labels, values)  # Mostrar el gráfico

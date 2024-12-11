@@ -1,0 +1,23 @@
+{'name': 'Laptop', 'price': '1200'}
+{'name': 'Phone', 'price': '800'}
+{'name': 'Tablet', 'price': '400'}
+{'name': 'Smartwatch', 'price': '250'}
+{'name': 'Headphones', 'price': '150'}
+{'name': 'Keyboard', 'price': '100'}
+{'name': 'Mouse', 'price': '50'}
+{'name': 'Monitor', 'price': '300'}
+{'name': 'Printer', 'price': '150'}
+{'name': 'Camera', 'price': '500'}
+
+Producto: Laptop, Precio: 1200
+Producto: Phone, Precio: 800
+Producto: Tablet, Precio: 400
+Producto: Smartwatch, Precio: 250
+Producto: Headphones, Precio: 150
+Producto: Keyboard, Precio: 100
+Producto: Mouse, Precio: 50
+Producto: Monitor, Precio: 300
+Producto: Printer, Precio: 150
+Producto: Camera, Precio: 500
+
+

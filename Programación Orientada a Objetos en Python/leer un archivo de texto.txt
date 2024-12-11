@@ -1,0 +1,18 @@
+file = open('./text.txt') # Abre el archivo 'text.txt' en modo lectura
+
+#print(file.read()) # Lee todo el contenido del archivo y lo imprime (comentado)
+
+#print(file.readline()) # Lee una línea del archivo y la imprime
+#print(file.readline())
+#print(file.readline())
+#print(file.readline())
+
+for line in file # Este bucle recorrerá todas las líneas del archivo
+  print(line)
+
+file.close() # Cierra el archivo después de leerlo
+
+with open('./text.txt') as file: # Utilizando la declaración 'with', que gestiona automáticamente la apertura y cierre del archivo
+
+  for  line in file:# Itera nuevamente sobre cada línea del archivo e imprime su contenido
+  print(line)
